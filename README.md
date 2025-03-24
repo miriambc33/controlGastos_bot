@@ -91,4 +91,4 @@ python bot.py
 
 ## 📝 Licencia
 
-Este proyecto está desarrollado por **Miriam** con fines educativos y personales.
+Este proyecto está desarrollado por **Miriam Beltrá** 
